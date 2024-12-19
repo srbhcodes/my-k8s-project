@@ -1,3 +1,4 @@
+
 ---
 
 ### **Step 1: Clone the GitHub Repository**
@@ -94,4 +95,7 @@ To stop and remove the deployment, service, and resources:
    ```bash
    minikube stop
    ```
+
+---
+
 
